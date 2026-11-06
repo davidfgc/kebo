@@ -1,0 +1,18 @@
+onboarding = false
+
+[keys]
+prefix = "ctrl+a"
+
+[theme]
+name = "dracula"
+auto_switch = false
+
+[ui]
+status_indicators = "symbols"
+
+[terminal]
+default_shell = "/bin/zsh"
+shell_mode = "login"
+
+[experimental]
+pane_history = true
